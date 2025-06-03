@@ -93,7 +93,6 @@ img {
     background-color: var(--primary);
 }
 
-/* Header Styles */
 header {
     background-color: var(--white);
     box-shadow: var(--shadow);
@@ -233,7 +232,6 @@ nav ul li:hover .dropdown-menu {
     justify-content: center;
 }
 
-/* Featured Categories */
 .featured-categories {
     padding: 80px 0;
 }
@@ -277,7 +275,6 @@ nav ul li:hover .dropdown-menu {
     margin-bottom: 5px;
 }
 
-/* Popular Products */
 .popular-products {
     padding: 80px 0;
     background-color: var(--white);
@@ -329,7 +326,6 @@ nav ul li:hover .dropdown-menu {
     margin-bottom: 15px;
 }
 
-/* Newsletter */
 .newsletter {
     padding: 80px 0;
     background-color: var(--secondary);
@@ -376,7 +372,6 @@ nav ul li:hover .dropdown-menu {
     background-color: #ff5252;
 }
 
-/* Footer */
 footer {
     background-color: var(--dark);
     color: var(--white);
@@ -473,7 +468,7 @@ footer {
     font-size: 0.9rem;
 }
 
-/* Responsive Design */
+
 @media (max-width: 992px) {
     .hero h1 {
         font-size: 2.5rem;
